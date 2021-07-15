@@ -1,0 +1,2 @@
+CMD FAILED!
+Could not find USB device!
