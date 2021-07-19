@@ -3,7 +3,7 @@ A custom MATLAB Class and example for controlling any Arcus stage or motor (Arcu
 
 Dependencies
 - Motor or stage from Arcus-Technologies Inc.
-- install Arcus-technologies stage/ motor control software depending on whether its DriveMax or PerforMax. Find in _"Arcus_installers"_ folder or download from webpage (https://www.arcus-technology.com/support/downloads/
+- install Arcus-technologies stage/ motor control software depending on whether its DriveMax or PerforMax. Find in _"Arcus_installers"_ folder or download from webpage (https://www.arcus-technology.com/support/downloads/)
 - MATLAB (higher versions preferable)
 
 
